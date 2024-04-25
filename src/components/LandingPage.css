@@ -6,7 +6,7 @@
     justify-content: center;
     min-height: 100vh;
     padding: 50px;
-    background-image: url(C:/Users/devan/firebase-notes-app/public/images/backgroung.jpg);
+    background-image: url(../../public/images/backgroung.jpg);
     background-size: cover;
     background-position: center;
   }
